@@ -1,4 +1,4 @@
-# Pattern Search Workshop
+# Pattern Search Workshop (Obsolete and archived)
 
 
 ### Setup
